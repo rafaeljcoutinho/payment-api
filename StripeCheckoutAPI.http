@@ -1,0 +1,6 @@
+@StripeCheckoutAPI_HostAddress = http://localhost:5206
+
+GET {{StripeCheckoutAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
